@@ -14,6 +14,15 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[test-san]]></title>
+    <url>%2F2017%2F09%2F14%2Ftest-san%2F</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>分类一</category>
+        <category>分类二</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[test-er]]></title>
     <url>%2F2017%2F09%2F14%2Ftest-er%2F</url>
     <content type="text"><![CDATA[]]></content>
